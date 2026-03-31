@@ -69,7 +69,7 @@ OBJLoader.java     # OBJ file loader
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 1. Open the project in any Java IDE:
 
